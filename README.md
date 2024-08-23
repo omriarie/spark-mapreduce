@@ -1,4 +1,4 @@
-# K-Means Clustering with PySpark
+# K-Means with PySpark
 
 This project implements the K-Means clustering algorithm using PySpark, a powerful tool for distributed data processing. The project leverages PySpark's MapReduce framework to efficiently handle large datasets, demonstrating the scalability and performance benefits of distributed computing. The K-Means algorithm is applied to various datasets, and its performance is evaluated using metrics such as the Calinski-Harabasz Index and Adjusted Rand Index. This project showcases the practical application of PySpark and MapReduce in solving real-world data clustering problems.
 
